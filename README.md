@@ -1,8 +1,8 @@
-# Tennis Counting Dojo
+# Base code for Assignment 1 (2AA4 / 2025W)
 
 ![build status](https://github.com/ace-lectures/2aa4-tennis/actions/workflows/build.yaml/badge.svg)
 
-- Author: Dr. [Sébastien Mosser](https://mosser.github.io)
+- Original author: Dr. [Sébastien Mosser](https://mosser.github.io)
 - Version: 2024.01
 - Context: McMaster University > Engineering > Computing & Software > SFWRENG > 2AA4
 - License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
